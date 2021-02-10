@@ -38,24 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Topsheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VDDXJIIW
-
-[Document2]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\DCDC_IBB_-12V_V01.PcbDoc
+DocumentPath=DCDC_IBB_-12V_V01.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,8 +54,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWPFWDLU
 
-[Document3]
-DocumentPath=..\A Elektronik\AltiumProjekte\Fertigungsdokumente-Einstellungen_V4.OutJob
+[Document2]
+DocumentPath=Topsheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,164 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=..\..\A Downloads\aisler-support-master\aisler-support-master\aisler.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\BOM\Bill of Materials-DCDC_IBB_-12V_V01.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\NC Drill\DCDC_IBB_-12V_V01.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\NC Drill\DCDC_IBB_-12V_V01.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Gerber\DCDC_IBB_-12V_V01.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\NC Drill\DCDC_IBB_-12V_V01.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\DCDC_IBB_-12V_V01_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\Project Outputs\Pick Place\Pick Place for DCDC_IBB_-12V_V01.csv
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\ProjectName-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\ProjectName.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\ProjectName.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\ProjectName.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\ProjectName.REP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=..\A Elektronik\Projekte\DCDC_IBB_-12V_V01\AISLER Output\ProjectName.RUL
-DItemRevisionGUID=
+DocumentUniqueId=VDDXJIIW
 
 [Configuration1]
 Name=Sources
