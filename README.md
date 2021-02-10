@@ -1,8 +1,13 @@
 View this project on [CADLAB.io](https://cadlab.io/project/23857).
 
 ## DCDC-IBB_-12V
-DCDC Buck Converter +48V to -12V 2A
+High Voltage Inverting Buck-Boost Converter +48V to -12V 2A
 
-- Input: +48V DC
+Based of the LM5085 from Texas Instruments
+
+- Input: +45V to +63V DC (nominal +48V)
 - Output: -12V DC (variable)
-- Max. Output Current: 2A
+- Max. Output Current: 2A (max. 2.2A)
+- Disable Jumper
+- Output-On LED
+
