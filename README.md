@@ -16,4 +16,4 @@ Based on the LM5085 from Texas Instruments
 
 To set the voltage, turn the Trim-Potentiometer until you've reached your desired Output.
 
-**NOTE:** Don't set Voltages above -16V, because it could damage your circuit! (If you don't replace certain Capacitors)
+**NOTE:** Don't set Voltages below -16V, because it could damage your circuit! (If you don't replace certain Capacitors)
