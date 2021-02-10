@@ -1,6 +1,6 @@
 View this project on [CADLAB.io](https://cadlab.io/project/23857).
 
-## DCDC-IBB_-12V
+# DCDC-IBB_-12V
 High Voltage Inverting Buck-Boost Converter +48V to -12V 2A
 
 Based on the LM5085 from Texas Instruments
@@ -12,7 +12,7 @@ Based on the LM5085 from Texas Instruments
 - Output-On LED
 
 
-# Voltage configuration
+## Voltage configuration
 
 To set the voltage, turn the Trim-Potentiometer until you've reached your desired Output.
 
