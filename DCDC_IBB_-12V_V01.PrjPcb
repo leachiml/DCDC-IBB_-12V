@@ -145,7 +145,7 @@ Value=2
 
 [Parameter2]
 Name=PCBRevision
-Value=V01
+Value=V1
 
 [Parameter3]
 Name=PCBName
