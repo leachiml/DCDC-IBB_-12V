@@ -21,8 +21,7 @@ To set the voltage, turn the Trim-Potentiometer until you've reached your desire
 You have multiple Options:
 
 - Go to my [CADLAB.io](https://cadlab.io/project/23857) Repository and view/download the Files
-- Open the Files with the [Altium viewer](https://www.altium.com/viewer/) or
-- [Download](https://www.altium.com/de/altium-designer-viewer) the viewer from their Website
+- Open the Files with the [Altium viewer](https://www.altium.com/viewer/)
 - Open the Files in Altium Designer 19+
 
 ## LICENSE
