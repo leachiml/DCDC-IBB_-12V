@@ -27,17 +27,17 @@ You have multiple Options:
 ## LICENSE
 **(c) Copyright Michael Berger 2021**
 
-This source describes Open Hardware and is licensed under the CERN-OHL-S v2+.
+This source describes Open Hardware and is licensed under the CERN-OHL-W v2+.
 
 You may redistribute and modify this source and make products using it under the terms of the 
-CERN-OHL-S v2 or any later version (https://ohwr.org/cern_ohl_s_v2.txt).         
+CERN-OHL-W v2 or any later version (https://ohwr.org/cern_ohl_w_v2.txt).         
                                                                               
 This source is distributed **WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY,**
 **SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.**
-Please see the CERN-OHL-S v2 or any later version for applicable conditions.  
+Please see the CERN-OHL-W v2 or any later version for applicable conditions.  
                                                                               
 Source location: https://github.com/leachiml/DCDC-IBB_-12V                                                                                                 
 
-As per CERN-OHL-S v2 section 4, should You produce hardware based on this source, 
+As per CERN-OHL-W v2 section 4, should You produce hardware based on this source, 
 You must where practicable maintain the Source Location visible on the PCB of
 the DCDC IBB or other products you make using this source.
