@@ -119,7 +119,7 @@ Value=DCDC IBB
 
 [Parameter4]
 Name=Designers
-Value=Berger
+Value=Michael Berger
 
 [Configuration1]
 Name=Sources

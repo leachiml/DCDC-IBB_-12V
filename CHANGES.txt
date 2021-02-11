@@ -1,0 +1,6 @@
+# Anyone who is modifying the design should provide brief information about the modifications in following format:
+# <Day> <Month> <Year>: <Description of the Change>
+#
+# Example: 
+# 11 Febuary 2021: Changed Footprint of Capacitors C1, C3 & C9
+#
